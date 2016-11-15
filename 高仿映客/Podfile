@@ -1,0 +1,11 @@
+platform :ios,’8.0’
+target ‘高仿映客’ do
+pod 'AFNetworking'
+pod 'WMPageController'
+pod 'SDAutoLayout'
+pod 'SDWebImage'
+pod 'WMPageController'
+pod 'MJExtension'
+pod 'MBProgressHUD'
+pod 'MJRefresh'
+end
